@@ -13,7 +13,7 @@
 -then you will be asked for data massge then the generator key.
 ![4](https://user-images.githubusercontent.com/34000758/48869650-af0e2180-ede6-11e8-9a61-0f4aa0a53482.PNG)
 
--then you will find out if the message is correct or not and you will find (transmitted_message.txt) thar containing the transmitted message.
+-then you will find out if the message is correct or not and you will find (transmitted_message.txt) that containing the transmitted message.
 ![5](https://user-images.githubusercontent.com/34000758/48869659-bcc3a700-ede6-11e8-98f0-6f1676e2167a.PNG)
 -
 ![6](https://user-images.githubusercontent.com/34000758/48869677-c77e3c00-ede6-11e8-8c7a-27ec79427bd7.PNG)
