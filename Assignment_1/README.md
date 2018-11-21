@@ -22,12 +22,12 @@
 in the text file the first line must be the data message and the second line must be the generator key.
 
 ![7](https://user-images.githubusercontent.com/34000758/48869704-d5cc5800-ede6-11e8-8aa8-2de2d2ecc266.PNG)
-There is some test cases.
-1-
+
+first test case
 ![8](https://user-images.githubusercontent.com/34000758/48869723-e41a7400-ede6-11e8-80f9-f0373e2fec74.PNG)
 
-2-
+seconde test case
 ![9](https://user-images.githubusercontent.com/34000758/48869735-ef6d9f80-ede6-11e8-8d52-db93685d7795.PNG)
 
-3-
+third test case
 ![11](https://user-images.githubusercontent.com/34000758/48869757-01e7d900-ede7-11e8-827c-9c074ecd5e57.PNG)
