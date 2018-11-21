@@ -15,13 +15,13 @@
 
 -then you will find out if the message is correct or not and you will find (transmitted_message.txt) thar containing the transmitted message.
 ![5](https://user-images.githubusercontent.com/34000758/48869659-bcc3a700-ede6-11e8-98f0-6f1676e2167a.PNG)
-
+-
 ![6](https://user-images.githubusercontent.com/34000758/48869677-c77e3c00-ede6-11e8-8c7a-27ec79427bd7.PNG)
 
 -for entering the data through file kindly enter the full path of the text file (or just drag the file to the program)
 in the text file the first line must be the data message and the second line must be the generator key.
-![7](https://user-images.githubusercontent.com/34000758/48869704-d5cc5800-ede6-11e8-8aa8-2de2d2ecc266.PNG)
 
+![7](https://user-images.githubusercontent.com/34000758/48869704-d5cc5800-ede6-11e8-8aa8-2de2d2ecc266.PNG)
 There is some test cases.
 1-
 ![8](https://user-images.githubusercontent.com/34000758/48869723-e41a7400-ede6-11e8-80f9-f0373e2fec74.PNG)
